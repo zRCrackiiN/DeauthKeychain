@@ -1,13 +1,6 @@
 # DeauthKeychain – ESP32-C3 Wi-Fi Deauthentication Tool  
 
 [![GitHub](https://img.shields.io/github/stars/zRCrackiiN/DeauthKeychain?style=social)](https://github.com/zRCrackiiN/DeauthKeychain)  
-Absolutely! Here's your updated README while keeping the original content and adding details about the **multi-environment setup** and **Beacon Spam** mode at the bottom.
-
----
-
-# DeauthKeychain – ESP32-C3 Wi-Fi Deauthentication Tool  
-
-[![GitHub](https://img.shields.io/github/stars/zRCrackiiN/DeauthKeychain?style=social)](https://github.com/zRCrackiiN/DeauthKeychain)  
 
 This project is a **Wi-Fi deauthentication tool** for the **ESP32-C3**, capable of scanning nearby networks and sending **deauth packets** to disconnect clients from their access points.  
 
