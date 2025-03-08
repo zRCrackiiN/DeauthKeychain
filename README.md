@@ -40,6 +40,7 @@ To build and upload a specific environment, use:
 pio run -e [environment_name] -t upload
 ```  
 Replace `[environment_name]` with one of the available environments, e.g., `deauth` or `beacon_spam`.  
+Or simply select an enviroment in the GUI.
 
 ## Usage  
 
